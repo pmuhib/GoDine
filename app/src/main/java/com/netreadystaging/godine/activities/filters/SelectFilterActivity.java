@@ -145,7 +145,6 @@ public class SelectFilterActivity extends FilterActivity {
                         featuresAdapter.notifyDataSetChanged();
                     } catch (JSONException e) {
                         e.printStackTrace();
-
                     }
                 }
                 else
@@ -234,7 +233,7 @@ public class SelectFilterActivity extends FilterActivity {
 
     @Override
     public void onClick(View v) {
-       returnResponse();
+        returnResponse();
     }
 
 

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:cfab-release">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cfab-release.aar/39b8e67014eea81476450ec0f0b0c603/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cfab-release.aar/39b8e67014eea81476450ec0f0b0c603/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

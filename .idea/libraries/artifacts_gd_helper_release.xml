@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:gd_helper-release">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gd_helper-release.aar/1483b9ea8d554a58c214b32b04723caf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gd_helper-release.aar/1483b9ea8d554a58c214b32b04723caf/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

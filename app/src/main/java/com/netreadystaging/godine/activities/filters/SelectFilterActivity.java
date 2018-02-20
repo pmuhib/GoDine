@@ -152,7 +152,6 @@ public class SelectFilterActivity extends FilterActivity {
                     ErrorController.showError(SelectFilterActivity.this,data,success);
                 }
 
-
             }
         }).request(ServiceMod.FEATURES_LISTING,params);
 
